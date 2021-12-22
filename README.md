@@ -1,11 +1,10 @@
 ### Hi there I am Ramesha H B 👋
 
-
-**ramesh01/ramesh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-end developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Angular framework
 - 🌱 I’m currently learning React & Node js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

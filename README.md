@@ -1,6 +1,6 @@
 ### Hi there I am Ramesha H B 👋
 
-<!--
+
 **ramesh01/ramesh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rameshhb37@gmail.com  Mob: +91-9916045737
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

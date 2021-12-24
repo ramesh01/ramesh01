@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ramesha H B
+### Hi there 👋, My name is Ramesha H B
 
 ### Front-end developer
 

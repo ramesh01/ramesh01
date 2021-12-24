@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on application security domain
-- 🌱 I’m currently working on Angular framework, learning React & Node js
+- ⚡ I’m currently working on Angular framework, learning React & Node js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 

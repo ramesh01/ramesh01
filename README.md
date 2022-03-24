@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on application security domain
+- 🔭 I’m currently working on Application security domain
 - ⚡ I’m currently working on Angular framework, learning React & Node js
 - 💬 Ask me about web development
 - 📫 How to reach me: rameshhb37@gmail.com  Mob: +91-9916045737

@@ -2,10 +2,10 @@
 
 ### Front-end developer
 
-Here are some ideas to get you started:
+Here are some of the things about me:
 
-- 🔭 I’m currently working on Application security domain
-- ⚡ I’m currently working on Angular framework, learning React & Node js
+- 🔭 I’m currently working on Application security domain.
+- ⚡ I’m currently working on Angular framework, learning React & Node js.
 - 💬 Ask me about web development
 - 📫 How to reach me: rameshhb37@gmail.com  Mob: +91-9916045737
 - 😄 Pronouns: --

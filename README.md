@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ramesha H B
 
-### Senior FED
+### Senior Front end developer
 
 Here are some of the things about me:
 

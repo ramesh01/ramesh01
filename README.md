@@ -14,7 +14,6 @@ Here are some of the things about me:
 - Backend (Hands-on): Node.js, Express.js, REST APIs
 - Mobile (Explored): React Native (paused)
 - Others: Modern JavaScript (ES6+), performance optimization, accessibility, frontend system design
-- 📫 How to reach me: rameshhb37@gmail.com  Mob: +91-9916045737
 
 #### 🌱 Currently Focusing On
 
